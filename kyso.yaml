@@ -1,8 +1,7 @@
----
+
 title: "Our first Jupyter notebook"
 description: "Jupyter notebook"
 main: "test_notebook.ipynb"
 tags:
   - test
   - python
----
